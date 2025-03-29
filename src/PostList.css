@@ -1,0 +1,18 @@
+.post-list__wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.post-list__title {
+    font-weight: 600;
+}
+
+.post-list__item {
+    background: #64b4ff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.post-list__comments-button {
+    align-self: start;
+}
